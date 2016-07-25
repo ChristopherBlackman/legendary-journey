@@ -1,0 +1,24 @@
+a{
+	color: #1E243A;
+}
+p{
+		margin: 0 0 10px 0;
+}
+div.line-bottom{
+	border-bottom-style: solid;
+	border-color: #6699FF;
+}
+div.line-top{
+	border-bottom-style: solid;
+	border-color: #6699FF;	
+}
+div.center-height{
+	margin:auto;
+	height:50%;
+	padding:10px;
+}
+div.center-width{
+	margin:auto;
+	width:50%;
+	padding:10px;
+}
