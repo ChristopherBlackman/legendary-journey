@@ -29,7 +29,7 @@
 				<div class='col-sm-2 container'>
 					<nav class='navbar navbar-light' style="backgroud-color:#d5beff;">
 					<ul class='nav nav-pills nav-stacked' >
-						<li role='presentation' class='active'>
+						<li role='presentation'>
 							<a href='about.html'>About</a>
 						</li>
 						<li role='presentation'>
@@ -38,7 +38,7 @@
 						<li role='presentation'>
 							<a href='projects.html'>Projects</a>
 						</li>
-						<li role='presentation'>
+						<li role='presentation' class='active'>
 							<a href='resume.html'>Resume</a>
 						</li>
 					</ul>
@@ -46,9 +46,10 @@
 				</div>
 				<!--Body-->
 				<div class='col-sm-8 container'>
-					
-					<h3> Error 404 - Page not found </h3>
-					<p>due to lack of editors there seems to be no content here</p>
+
+					{% body %}					
+
+					{% end_body %}
 					
 					<div class="line-bottom" stlye="width:100%;"></div>
 				</div><!--body-->

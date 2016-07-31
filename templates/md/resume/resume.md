@@ -1,4 +1,3 @@
-
 ###Contact
 email : Mr.Christopher.Blackman@gmail.com <br/>
 place : Canada, Ontario, Ottawa
