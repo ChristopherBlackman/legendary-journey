@@ -1,50 +1,50 @@
-###Contact
+### Contact
 email : Mr.Christopher.Blackman@gmail.com <br/>
 place : Canada, Ontario, Ottawa
 
-###Education
+### Education
 
-#####2008-2015 Immaculata High School
+##### 2008-2015 Immaculata High School
 * Ontario High School Diploma
 * Honor Roll Grade 9-12
 * Mentor ship Program Supported by Macadamian
 
-#####2015 - *  Carleton University 
+##### 2015 - *  Carleton University 
 * Undergraduate in Computer Science
 
 
-###Work Experience
+### Work Experience
 
-#####2009-13   Sun Distributor
+##### 2009-13   Sun Distributor
 * Flyer/Newspaper Delivery
 
-#####2014 - *  Carleton University
+##### 2014 - *  Carleton University
 * Special Events Staff
 
-#####2015 - *  Ottawa Hospital
+##### 2015 - *  Ottawa Hospital
 * Pharmacy Porter
 
 
-###Volunteer Experience
+### Volunteer Experience
 
-#####2012-13   Ottawa Food Bank
+##### 2012-13   Ottawa Food Bank
 * Sorter / Transporter
 
 
-###Skills
+### Skills
 * Hardware Knowledge
 * Basic Programming
 * Basic Linux Operation
 * First Aid Training (Certificate Expired)
 
 
-###Languages
+### Languages
 
-#####Interest
+##### Interest
 * RUST
 * Ruby
 
-#####Basic
+##### Basic
 * Bash
 * Haskell
 * JavaScript
@@ -53,25 +53,25 @@ place : Canada, Ontario, Ottawa
 * CSS
 * HTML
 
-#####Intermediate
+##### Intermediate
 * C++
 * C#
 * Python
 * Java
 
 
-###Interests
+### Interests
 * Data Structures / Sorting Algorithms
 * Functional Languages
 * Math at times
 * Musical Instruments (casual)
 
 
-###Activities
+### Activities
 * (2012-2015) Echo Magazine Club at Immaculata High School
 * (2014-2015) Chess Club
 * (2002-2015) Organized Hockey 
 
 
-###References
+### References
 Send me a email and I can get you some references. I just don't want to hand out their public information.
