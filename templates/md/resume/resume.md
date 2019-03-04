@@ -18,11 +18,12 @@ place : Canada, Ontario, Ottawa
 ##### 2009-13   Sun Distributor
 * Flyer/Newspaper Delivery
 
+##### 2015 - 2018  Ottawa Hospital
+* Pharmacy Porter
+
 ##### 2014 - *  Carleton University
 * Special Events Staff
 
-##### 2015 - *  Ottawa Hospital
-* Pharmacy Porter
 
 
 ### Volunteer Experience
